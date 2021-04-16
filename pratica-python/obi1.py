@@ -7,4 +7,3 @@ for i in range(0, n):
     if (point1+point2 >= p):
         participants += 1
 print(participants)
-
