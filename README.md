@@ -1,3 +1,4 @@
-# :female-mage: boss-maratona
+# :two_women_holding_hands: boss-maratona
 
-### Exercícios utilizados para treino em programação competitiva na mentoria BOSS - Big Open Source Sibling
+### :page_with_curl: Descrição
+Exercícios utilizados para treino em programação competitiva na mentoria BOSS - Big Open Source Sibling
